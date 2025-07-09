@@ -51,7 +51,7 @@ cpp-banking-system/
 
 ---
 
-##🧠 Concepts Practiced
+## 🧠 Concepts Practiced
   - File streams and binary data storage
 
   - Basic data structures
